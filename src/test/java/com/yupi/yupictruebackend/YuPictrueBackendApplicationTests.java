@@ -9,5 +9,4 @@ class YuPictrueBackendApplicationTests {
     @Test
     void contextLoads() {
     }
-
 }
